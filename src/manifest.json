@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "DUCAS",
+	"description": "Dame un capítulo aleatorio en Simpsonizados",
+	"version": "0.0.1",
+	"icons": {
+		"48": "icons/donut-48.png",
+		"96": "icons/donut-96.png"
+	},
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	},
+	"browser_action": {
+		"default_icon": "icons/donut-32.png",
+		"default_title": "Dame un capítulo aleatorio en Simpsonizados!"
+	}
+}
