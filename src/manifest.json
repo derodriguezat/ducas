@@ -3,6 +3,8 @@
 	"name": "DUCAS",
 	"description": "Dame un capítulo aleatorio en Simpsonizados",
 	"version": "0.0.1",
+	"author": "Daniel Rodriguez",
+	"homepage_url": "https://github.com/derodriguezat/ducas",
 	"icons": {
 		"48": "icons/donut-48.png",
 		"96": "icons/donut-96.png"
